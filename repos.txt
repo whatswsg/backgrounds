@@ -1,1 +1,2 @@
-https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpaper-preview.md
+Nordic Wallpapers -> https://github.com/linuxdotexe/nordic-wallpapers/blob/master/wallpaper-preview.md
+Dracula Wallpapers -> https://github.com/aynp/dracula-wallpapers
